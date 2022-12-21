@@ -1,0 +1,40 @@
+[14:48:49.801] [INFO   ] thread main starting.
+[14:48:49.813] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[14:48:49.815] [SEVERE ] configuration file was loaded from resources directory.
+[14:48:50.962] [INFO   ] thread dealer starting.
+[14:48:50.964] [INFO   ] thread dealer starting.
+[14:48:50.965] [INFO   ] thread Thread-0 starting.
+[14:48:50.966] [INFO   ] thread Thread-1 starting.
+[14:48:50.983] [SEVERE ] placing card 78 in slot 10
+[14:48:51.000] [SEVERE ] placing card 26 in slot 9
+[14:48:51.001] [SEVERE ] placing card 39 in slot 0
+[14:48:51.001] [SEVERE ] placing card 5 in slot 4
+[14:48:51.002] [SEVERE ] placing card 11 in slot 1
+[14:48:51.003] [SEVERE ] placing card 45 in slot 2
+[14:48:51.013] [SEVERE ] placing card 57 in slot 5
+[14:48:51.015] [SEVERE ] placing card 8 in slot 8
+[14:48:51.017] [SEVERE ] placing card 28 in slot 7
+[14:48:51.020] [SEVERE ] placing card 6 in slot 11
+[14:48:51.022] [SEVERE ] placing card 79 in slot 6
+[14:48:51.024] [SEVERE ] placing card 50 in slot 3
+[14:48:51.026] [SEVERE ] updating countdown to 12999
+[14:48:52.033] [SEVERE ] updating countdown to 11992
+[14:48:53.032] [SEVERE ] updating countdown to 10994
+[14:48:54.031] [SEVERE ] updating countdown to 9994
+[14:48:54.234] [SEVERE ] key 65 was pressed by player 1
+[14:48:54.236] [SEVERE ] player 1 placing token on slot 4
+[14:48:54.687] [SEVERE ] key 83 was pressed by player 1
+[14:48:54.690] [SEVERE ] player 1 placing token on slot 5
+[14:48:55.032] [SEVERE ] updating countdown to 8993
+[14:48:55.263] [SEVERE ] key 81 was pressed by player 1
+[14:48:55.271] [SEVERE ] player 1 placing token on slot 0
+[14:48:55.275] [SEVERE ] updating countdown to 8750
+[14:48:55.285] [SEVERE ] setting player 1 freeze to 0
+[14:48:56.031] [SEVERE ] updating countdown to 7994
+[14:48:56.751] [SEVERE ] key 68 was pressed by player 1
+[14:48:57.031] [SEVERE ] updating countdown to 6994
+[14:48:59.016] [SEVERE ] exit button pressed
+[14:48:59.020] [SEVERE ] updating countdown to 0
+[14:48:59.024] [INFO   ] thread dealer terminated.
+[14:48:59.027] [SEVERE ] thanks for playing... it was fun!
+[14:48:59.030] [INFO   ] thread main terminated.

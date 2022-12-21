@@ -1,0 +1,43 @@
+[14:36:40.771] [INFO   ] thread main starting.
+[14:36:40.782] [SEVERE ] cannot read configuration file config.properties trying from resources.
+[14:36:40.784] [SEVERE ] configuration file was loaded from resources directory.
+[14:36:42.210] [INFO   ] thread dealer starting.
+[14:36:42.213] [INFO   ] thread dealer starting.
+[14:36:42.213] [INFO   ] thread Thread-0 starting.
+[14:36:42.214] [INFO   ] thread Thread-1 starting.
+[14:36:42.336] [SEVERE ] placing card 0 in slot 6
+[14:36:42.540] [SEVERE ] placing card 71 in slot 1
+[14:36:42.754] [SEVERE ] placing card 80 in slot 2
+[14:36:42.965] [SEVERE ] placing card 59 in slot 7
+[14:36:43.176] [SEVERE ] placing card 66 in slot 9
+[14:36:43.389] [SEVERE ] placing card 53 in slot 10
+[14:36:43.598] [SEVERE ] placing card 12 in slot 8
+[14:36:43.810] [SEVERE ] placing card 61 in slot 5
+[14:36:44.023] [SEVERE ] placing card 41 in slot 0
+[14:36:44.230] [SEVERE ] placing card 54 in slot 11
+[14:36:44.441] [SEVERE ] placing card 4 in slot 4
+[14:36:44.652] [SEVERE ] placing card 72 in slot 3
+[14:36:44.763] [SEVERE ] updating countdown to 60999
+[14:36:45.765] [SEVERE ] updating countdown to 59997
+[14:36:46.768] [SEVERE ] updating countdown to 58994
+[14:36:47.768] [SEVERE ] updating countdown to 57994
+[14:36:48.768] [SEVERE ] updating countdown to 56994
+[14:36:49.768] [SEVERE ] updating countdown to 55994
+[14:36:50.768] [SEVERE ] updating countdown to 54994
+[14:36:51.768] [SEVERE ] updating countdown to 53994
+[14:36:52.767] [SEVERE ] updating countdown to 52995
+[14:36:53.767] [SEVERE ] updating countdown to 51995
+[14:36:54.768] [SEVERE ] updating countdown to 50994
+[14:36:55.769] [SEVERE ] updating countdown to 49994
+[14:36:56.766] [SEVERE ] updating countdown to 48996
+[14:36:57.768] [SEVERE ] updating countdown to 47994
+[14:36:58.768] [SEVERE ] updating countdown to 46994
+[14:36:59.768] [SEVERE ] updating countdown to 45994
+[14:37:00.768] [SEVERE ] updating countdown to 44994
+[14:37:01.769] [SEVERE ] updating countdown to 43994
+[14:37:02.769] [SEVERE ] updating countdown to 42994
+[14:37:03.019] [SEVERE ] exit button pressed
+[14:37:03.024] [SEVERE ] updating countdown to 0
+[14:37:03.036] [INFO   ] thread dealer terminated.
+[14:37:03.043] [SEVERE ] thanks for playing... it was fun!
+[14:37:03.047] [INFO   ] thread main terminated.
